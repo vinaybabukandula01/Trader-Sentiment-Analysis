@@ -1,5 +1,3 @@
-# Trader-Sentiment-Analysis
-
 Objective
 Analyze relationship between Bitcoin market sentiment and trader behavior.
 
